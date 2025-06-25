@@ -1,5 +1,3 @@
-# my-github-journey
-Repository to showcase my journey and resources as a technical recruiter hiring top global tech talent.
 # Welcome to My GitHub Profile!
 
 Hello! I am Mishu, a Technical Recruiter passionate about connecting top tech talent with exciting opportunities.
