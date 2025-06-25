@@ -5,7 +5,7 @@ Repository to showcase my journey and resources as a technical recruiter hiring 
 Hello! I am Mishu, a Technical Recruiter passionate about connecting top tech talent with exciting opportunities.
 
 ## About Me
-- Currently working as a technical recruiter specializing in sourcing developers skilled in Python, Java, DOTNET, Node.js Developers, QA Engineers, DevOps Engineers and AI Engineers.
+- Currently working as a technical recruiter specializing in sourcing developers skilled in Python, Java, DOTNET, Node.js Developers, DevOps Engineers and AI Engineers.
 - Learning how to use GitHub to better understand developers and their work.
 - Interested in technology trends, and building my skills in tech sourcing.
 
